@@ -1,7 +1,7 @@
 # Fundamentos da Agilidade
 
 ## Tradicional X Ágil
- - 3 Vs:
+ - 3 Vs (Envolvem os 3 pilares, Transparência, Inspeção e Adaptação):
   - Visão: Implica em definir uma diretriz inicial para a equipe seguir de forma transparente para que 
   todos envolvidos falem a mesma língua. A partir dessa diretirz inicial, ocorre um efeito cascata que
   gera na equipe um autogerenciamento, com todos pensando em soluções e sendo proativos.
