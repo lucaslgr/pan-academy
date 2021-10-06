@@ -1,8 +1,8 @@
 <h1 style="text-align=center;">PROGRAMA - PAN ACADEMY</h1>
 
 <div style="display: flex; flex-direction: row;">
-<img src="https://bancopan.corporate.gama.academy/wp-content/uploads/sites/10/2021/08/logo-Positivo.png" width="45%">
-<img src="https://bancopan.corporate.gama.academy/wp-content/uploads/sites/10/2021/08/gama-academy-logo-horizontal-verde-preto.png" width="65%">
+<img src="https://bancopan.corporate.gama.academy/wp-content/uploads/sites/10/2021/08/logo-Positivo.png" width="35%">
+<img src="https://bancopan.corporate.gama.academy/wp-content/uploads/sites/10/2021/08/gama-academy-logo-horizontal-verde-preto.png" width="55%">
 </div>
 
 <br>
