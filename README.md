@@ -10,7 +10,7 @@
 <div>
 
 <p>
- É um prorgrma para se espealizar em <strong>Java</strong> e <strong>Cloud</strong> com o <strong>Banco PAN</strong> e aida concorrer a uma vaga.
+ É um prorgrma para se espealizar em <strong>Java</strong> e <strong>Cloud</strong> com o <strong>Banco PAN</strong> e ainda concorrer a uma vaga.
 </p>
 <p>
 Serão 10 semanas de treinamento.
