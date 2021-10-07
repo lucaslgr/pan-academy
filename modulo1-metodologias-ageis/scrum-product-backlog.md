@@ -1,0 +1,24 @@
+# Product Backlog
+
+- Detalha <b>tudo</b> que deve ser necessário no produto, <b>no nível certo</b>.
+    - <b>Tudo o que?</b>
+        - Funcionalidade
+        - Débito Técnico
+        - Spike investigativo
+        - Defeito
+        - Caso de Uso
+        - Requisitos de negócio
+        - Experimento
+        - Requisito não funcional
+        - Capacidade
+    - <b>Qual seria o nível certo?</b>
+        - O Product Backlog segue o conceito de <b>JIT(Just in Time)</b> que implica em detalhar somente o que será feito <b>agora</b>.
+        - O Product Backlog passa por um <b>refinamento de backlog (User Story)</b> onde será detalhado o <b>Epic</b> que estiver mais próximo de entrar na <b>Sprint</b>.
+    - <b>O que são Epic (Épicos)?</b>
+        - Exemplos: Registro de autenticação, notificações, login via Gmail, login via Facebook, envio, etc.
+    - <b>O que são User Story?</b>
+        - É uma funcionalidade escrita pela perspectiva do usuário.
+        - Exemplo:
+            - "Como um membro da equipe eu quero visualizar minhas tarefas para estar ciente da minha lista de to-do."
+- É <b>ordenado</b> levando em consideração <b>tamanho</b>, <b>risco</b>, <b>valor</b> e <b>dependência</b>.
+    - Quem <b>ordena</b> o Product Backlog é o PO, levando em consideração.
