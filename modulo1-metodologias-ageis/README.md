@@ -11,4 +11,5 @@
     - <a href="./scrum-sprint-planning.md">Sprint Planning</a>
     - <a href="./scrum-sprint-execution.md">Sprint Execution</a>
     - <a href="./scrum-sprint-review-vs-retrospective.md">Sprint Review vs Sprint Retrospective</a>
-    - <a href="./scrum-kanban.md">Kanban</a>
+- <a href="./kanban.md">Kanban</a>
+- <a href="./xp.md">Extreme Programing</a>
