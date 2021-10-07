@@ -14,16 +14,17 @@
 - É realizada depois da Sprint Review.
 - Geralmente tem duração de no máximo 3 horas.
 - É onde a equipe Scrum vai inspecionar e adaptar a forma como ela está trabalhando.
-- Uma forma de organizar a Sprint Retrospective é apresentada na imagem abaixo:
-<img src="./img/sprint-retrospective.png"/>
+- Uma forma de organizar a Sprint Retrospective é apresentada na imagem abaixo: <img src="./img/sprint-retrospective.png"/>
 - <b>Etapas da Sprint Retrospective:</b>
     - <b>Preparar o cenário:</b>
+
         - Dar as boas-vindas para equipe completa e reiterar a importância da reunião.
         - Dica:
             - Faça todos falarem durante o início da reunião.
             - "O que você espera dessa reunião"
                 - Resposta de no máximo uma sentença...
         - Apresentar a estrutura da reunião.
+
     - <b>Coletar dados:</b>
         - Revise os dados disponíveis: Esses dados são como gráficos de Burnup, bugs que surgiram durante a Sprint.
         - Happy, Sad, Ideas, Thanks: É uma técnica onde cada integrante da equipe escreve o que o deixou feliz, triste, quais ideias teve e o que ele agradece durante tudo que aconteceu na Sprint.
@@ -32,6 +33,7 @@
         <img src="./img/happy-null-sad.png"/>
         - Ao final da coleta de dados a equipe deve reunir o que foi bem, o que não foi bem e a pode melhorar.
     - <b>Gerar Ideias:</b>
+
         - Baseado na lista do que foi levantando sobre <b> o que a equipe Scrum pode melhorar</b> chega a etapa de gerar ideias de como alcançar essas melhoras.
         - Algumas técnicas para ajudar nessa etapa são:
             - "Por que isso aconteceu?"
@@ -40,12 +42,14 @@
             - 5W
             - Riscos
     - <b>Decidir o que vai ser feito:</b>
+
         - É importante a presença do PO aqui principalmente para esse tópico.
         - Tratar itens de melhoria como itens de backlog.
             - Retrospective Planning Game, Planning Poker.
             - Dot voting.
         - No final dessa etapa a equipe teŕa um plano de melhoria que pode ter algumas coisas a serem refinadas no Product Backlog também ou não.
     - <b>Fechar a retrospectiva:</b>
+    
         - Agradeceer a equipe pelo trabalho duro.
         - Coletar feedback sobre a dinâmica da Sprint Restrospective.
         - Tente não repetir muito a dinâmica para não ficar algo entediante.
