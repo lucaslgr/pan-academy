@@ -13,3 +13,4 @@
     - <a href="./scrum-sprint-review-vs-retrospective.md">Sprint Review vs Sprint Retrospective</a>
 - <a href="./kanban.md">Kanban</a>
 - <a href="./xp.md">Extreme Programing</a>
+- <a href="./modelo-spotify.md">Modelo Spotify</a>
