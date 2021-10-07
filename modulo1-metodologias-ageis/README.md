@@ -14,3 +14,4 @@
 - <a href="./kanban.md">Kanban</a>
 - <a href="./xp.md">Extreme Programing</a>
 - <a href="./modelo-spotify.md">Modelo Spotify</a>
+- <a href="./safe.md">SAFe</a>
