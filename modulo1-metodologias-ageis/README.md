@@ -5,3 +5,4 @@
 - <a href="./scrum-introducao.md">SCRUM</a>
     - <a href="./scrum-equipe.md">Equipe SCRUM</a>
     - <a href="./scrum-product-goal.md">Product Goal</a>
+    - <a href="./scrum-product-backlog.md">Product Backlog</a>
