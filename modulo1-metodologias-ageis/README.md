@@ -9,3 +9,4 @@
     - <a href="./scrum-modelo-kano.md">Modelo Kano</a>
     - <a href="./scrum-definition-of-done.md">Definition of Done</a>
     - <a href="./scrum-sprint-planning.md">Sprint Planning</a>
+     - <a href="./scrum-sprint-execution.md">Sprint Execution</a>
