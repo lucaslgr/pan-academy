@@ -4,3 +4,4 @@
 - <a href="./manifesto_agil.md">Menifesto Ágil</a>
 - <a href="./scrum-introducao.md">SCRUM</a>
     - <a href="./scrum-equipe.md">Equipe SCRUM</a>
+    - <a href="./scrum-product-goal.md">Product Goal</a>
