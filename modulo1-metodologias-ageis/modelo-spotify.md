@@ -29,6 +29,8 @@
             - <b>Squads de Features:</b> Após implementar uma featura a Squad precisa fazer release em vários clientes diferentes, como Apple, Android, Windows, Linux, e ai entra a o apoio da Squad de Clientes.
         - As releases são alinhadas em uma dinâmica chamada <b>Release Train</b> onde as equipes alinham as features que cada Squad desenvolveu para uma realease semanal pré-agendada para determinado cliente (IOS, Android, etc).
         <img src="./img/release-trains.png"/>
+        
         - Não necessariamente toda release vai ser apresentada ao usuário, a cada versão lançada eles podem ligar ou desligar uma featura de acordo com a necessidade <b>(Feature Toogle)</b>.
         <img src="./img/release-train-feature-toggle.png">
+        
         - As releases são liberadas em pequenos grupos pois caso algo entre em produção e cause problemas eles tem chance de corrigir a tempo de atingir muitos clientes.
