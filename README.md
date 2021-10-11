@@ -22,19 +22,19 @@ Acesse aqui para mais informações
 </div>
 
 ## Módulos 
-- <a href="./modulo1-metodologias-ageis/README.md">Módulo 1 - Metodologias Ágeis</a>
-    - <a href="./modulo1-metodologias-ageis/fundamentos_da_agilidade.md">Fundamentos da Agilidade</a>
-    - <a href="./modulo1-metodologias-ageis/manifesto_agil.md">Menifesto Ágil</a>
-    - <a href="./modulo1-metodologias-ageis/scrum-introducao.md">SCRUM</a>
-        - <a href="./modulo1-metodologias-ageis/scrum-equipe.md">Equipe SCRUM</a>
-        - <a href="./modulo1-metodologias-ageis/scrum-product-goal.md">Product Goal</a>
-        - <a href="./modulo1-metodologias-ageis/scrum-product-backlog.md">Product Backlog</a>
-        - <a href="./modulo1-metodologias-ageis/scrum-modelo-kano.md">Modelo Kano</a>
-        - <a href="./modulo1-metodologias-ageis/scrum-definition-of-done.md">Definition of Done</a>
-        - <a href="./modulo1-metodologias-ageis/scrum-sprint-planning.md">Sprint Planning</a>
-        - <a href="./modulo1-metodologias-ageis/scrum-sprint-execution.md">Sprint Execution</a>
-        - <a href="./modulo1-metodologias-ageis/scrum-sprint-review-vs-retrospective.md">Sprint Review vs Sprint Retrospective</a>
-    - <a href="./modulo1-metodologias-ageis/kanban.md">Kanban</a>
-    - <a href="./modulo1-metodologias-ageis/xp.md">Extreme Programing</a>
-    - <a href="./modulo1-metodologias-ageis/modelo-spotify.md">Modelo Spotify</a>
-    - <a href="./modulo1-metodologias-ageis/safe.md">SAFe</a>
+- <a href="./modulo-metodologias-ageis/README.md">Módulo - Metodologias Ágeis</a>
+    - <a href="./modulo-metodologias-ageis/fundamentos_da_agilidade.md">Fundamentos da Agilidade</a>
+    - <a href="./modulo-metodologias-ageis/manifesto_agil.md">Menifesto Ágil</a>
+    - <a href="./modulo-metodologias-ageis/scrum-introducao.md">SCRUM</a>
+        - <a href="./modulo-metodologias-ageis/scrum-equipe.md">Equipe SCRUM</a>
+        - <a href="./modulo-metodologias-ageis/scrum-product-goal.md">Product Goal</a>
+        - <a href="./modulo-metodologias-ageis/scrum-product-backlog.md">Product Backlog</a>
+        - <a href="./modulo-metodologias-ageis/scrum-modelo-kano.md">Modelo Kano</a>
+        - <a href="./modulo-metodologias-ageis/scrum-definition-of-done.md">Definition of Done</a>
+        - <a href="./modulo-metodologias-ageis/scrum-sprint-planning.md">Sprint Planning</a>
+        - <a href="./modulo-metodologias-ageis/scrum-sprint-execution.md">Sprint Execution</a>
+        - <a href="./modulo-metodologias-ageis/scrum-sprint-review-vs-retrospective.md">Sprint Review vs Sprint Retrospective</a>
+    - <a href="./modulo-metodologias-ageis/kanban.md">Kanban</a>
+    - <a href="./modulo-metodologias-ageis/xp.md">Extreme Programing</a>
+    - <a href="./modulo-metodologias-ageis/modelo-spotify.md">Modelo Spotify</a>
+    - <a href="./modulo-metodologias-ageis/safe.md">SAFe</a>
