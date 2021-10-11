@@ -38,4 +38,4 @@ Acesse aqui para mais informações
     - <a href="./modulo-metodologias-ageis/xp.md">Extreme Programing</a>
     - <a href="./modulo-metodologias-ageis/modelo-spotify.md">Modelo Spotify</a>
     - <a href="./modulo-metodologias-ageis/safe.md">SAFe</a>
-- <a href="./modulo-java/README.md">Módulo - Java</a>
+- <a href="./modulo-java/">Módulo - Java</a>
