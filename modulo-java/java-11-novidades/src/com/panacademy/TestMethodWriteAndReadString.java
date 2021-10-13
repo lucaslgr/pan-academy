@@ -8,6 +8,8 @@ import java.nio.file.StandardOpenOption;
 
 public class TestMethodWriteAndReadString {
     public static void run() {
+        System.out.println("Testando métodos File.writeString e File.readString");
+
         Path filePath = Paths.get("/home/lucaslgr/projects/pan-academy/modulo-java/java-11-novidades/src/com/panacademy/", "temp", "test.txt");
 
         try

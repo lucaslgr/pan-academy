@@ -1,6 +1,6 @@
 package com.panacademy;
 
-public class TestMethodStrip {
+public class TestMethodStrStrip {
     public static void run() {
 
         System.out.println("Usando strip, stripLeading e stripTailing");

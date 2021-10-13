@@ -10,9 +10,12 @@ public class Main {
         TestMethodWriteAndReadString.run();
 
         //JAVA 11 - String.isBlank()
-        TestMethodIsBlank.run();
+        TestMethodStrIsBlank.run();
 
         //JAVA 11 - String.strip()
-        TestMethodStrip.run();
+        TestMethodStrStrip.run();
+
+        //JAVA 11 - String.repeat(int)
+        TestMethodStrRepeat.run();
     }
 }
