@@ -6,7 +6,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 
-public class TestMethodWriteString {
+public class TestMethodWriteAndReadString {
     public static void run() {
         Path filePath = Paths.get("/home/lucaslgr/projects/pan-academy/modulo-java/java-11-novidades/src/com/panacademy/", "temp", "test.txt");
 
