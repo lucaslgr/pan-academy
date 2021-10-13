@@ -8,4 +8,5 @@
   - O parâmetro options especifica como o arquivo é aberto.
 - <b>Files.readString(filePath): </b>
   - Lê o conteúdo de um arquivo como String.
-- <b>String.isBlank(str): </b>Checa se a string dada está em branco ou vazia.
+- <b>String.isBlank(): </b>Checa se a string dada está em branco ou vazia.
+- <b>String.strip(): </b>Método ajuda a retirar os espaços no início e no final da String.

@@ -9,7 +9,10 @@ public class Main {
         //JAVA 11 - Files.writeString(path, string, StandardCharsets.UTF_8, options) and
         TestMethodWriteAndReadString.run();
 
-        //JAVA 11 - String.isBlank(str)
+        //JAVA 11 - String.isBlank()
         TestMethodIsBlank.run();
+
+        //JAVA 11 - String.strip()
+        TestMethodStrip.run();
     }
 }
