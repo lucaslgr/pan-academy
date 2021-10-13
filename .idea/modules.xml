@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/modulo-java/java-11-novidades/java-11-novidades.iml" filepath="$PROJECT_DIR$/modulo-java/java-11-novidades/java-11-novidades.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pan-academy.iml" filepath="$PROJECT_DIR$/.idea/pan-academy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-java/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/modulo-java/tipos-variaveis/tipos-variaveis.iml" />
+    </modules>
+  </component>
+</project>
