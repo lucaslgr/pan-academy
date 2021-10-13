@@ -5,5 +5,8 @@ public class Main {
 
         //Java 14 - Testando NullPointerExceptions
         TestNullPointerException.run();
+
+        //Java 14 - Testando Pattern matching
+        TestPatternMatching.run();
     }
 }
