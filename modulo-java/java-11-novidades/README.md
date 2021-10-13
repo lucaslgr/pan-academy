@@ -10,3 +10,4 @@
   - Lê o conteúdo de um arquivo como String.
 - <b>String.isBlank(): </b>Checa se a string dada está em branco ou vazia.
 - <b>String.strip(): </b>Método ajuda a retirar os espaços no início e no final da String.
+- <b>String.repeat(int): </b>Método repete a string dado o número inteiro de vezes.
