@@ -9,3 +9,4 @@
 - <a href="./aula4-encapsulamento/">Aula 4 Java Encapsulamento</a>
 - <a href="./aula5-java-datas/">Aula 5 Java Datas</a>
   - <a href="https://www.javatpoint.com/java-util-calendar">Site de documentação da classe Calendar</a>
+- <a href="./aula6-metodos-estaticos/">Aula 6 Java Métodos Estáticos</a>

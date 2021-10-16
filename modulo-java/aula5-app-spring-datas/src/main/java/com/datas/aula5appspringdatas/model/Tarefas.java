@@ -13,11 +13,11 @@ public class Tarefas {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @Column(nullable = false)
+    @Column
     private String tarefa;
 
     @Temporal(TemporalType.TIMESTAMP)
-    private Calendar dataNascimentoCalendar;
+    private Calendar createdAt;
 
     @JsonFormat(pattern = "dd/MM/yyyy")
     private LocalDate date;
@@ -41,11 +41,11 @@ public class Tarefas {
     }
 
     public Calendar getDataNascimentoCalendar() {
-        return dataNascimentoCalendar;
+        return createdAt;
     }
 
-    public void setDataNascimentoCalendar(Calendar dataNascimentoCalendar) {
-        this.dataNascimentoCalendar = dataNascimentoCalendar;
+    public void setDataNascimentoCalendar(Calendar createdAt) {
+        this.createdAt = createdAt;
     }
 
     public LocalDate getDate() {
