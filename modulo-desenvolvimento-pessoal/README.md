@@ -99,10 +99,10 @@
 - Kanban (fazer, fazendo e feito).
 
 ### Referências e Sugestões
-
-## Produtividade (dicas para um dia a dia mais produtivo)
 - Livros:
     - A tríade do tempo - Christian Barbosa
     - Essencialismo - Greg Mckeown
     - Os sete hábitos das pessoas altamente eficazes - Stephen Covey
     - The Myth of Multitasking - Dave Crenshaw
+
+## Produtividade (dicas para um dia a dia mais produtivo)
