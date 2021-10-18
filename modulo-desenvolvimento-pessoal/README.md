@@ -106,3 +106,54 @@
     - The Myth of Multitasking - Dave Crenshaw
 
 ## Produtividade (dicas para um dia a dia mais produtivo)
+### Organização
+- Começará a atividade colocando em ordem o que precisa ser feito;
+- Deixará as metas e objetivos mais claros;
+- Ajudará na priorização de tarefas;
+- Gastará o tempo certo na atividade certa;
+- Terá mais tempo para atividades que te deem prazer.
+
+### Hábitos importantes!
+- Princípio 80/20 Lei de Pareto(resultados x atividades);
+- Comece seu dia fazendo as coisas mais importantes (tarefas de alto impacto);
+- Anote as ideias e revisite sempre;
+- Programe sua semana (7 dias - elimine ideias não boas e reforce aquelas que agregarão valor)
+- Reduza prazos (senso de urgência);
+- Reforço positivo, recompensa para a conclusão das tarefas x consequências negativas para a não conclusão;
+- Comece pequeno, aos poucos;
+- Mensure seus resultados, seu progresso.
+
+### Autorresponsabilidade
+- Antes de ser mais produtivo, precisamos nos responsabilizarmos:
+    - Autoconsciência;
+    - Autorresponsabilidade;
+    - Visão positiva de futuro;
+- Complementando esse movimento, temos mais 6 leis, segundo Paulo Vieira, autor de diversos livros, incluindo "O Poder da Autorresponsabilidade"
+    - Se é para criticar, cale-se;
+    - Se é para reclamar, dê sugestão;
+    - Se é para buscar culpados, busque solução;
+    - Se é para fazer-se de vítima, faça-se de vencedor;
+    - Se é para justificar seus erros, aprenda com eles;
+    - Se é para julgar as pessoas, julgue apenas suas atitudes e comportamentos.
+
+### AGORA!!!
+- Conte até 3 e vá fazer as tarefas que você não gosta.
+- Exercite diariamente.
+- Elimine as atividades que geralmente você procastina.
+
+### Energia (Essencialismo)
+- Foque toda sua energia em uma tarefa concentrada por vez.
+- Essencialista:
+    - Pensa: Menos, porém melhor.
+    - Faz: A busca disciplinada por menos.
+    - Obtém: Leva uma vida que tem significado.
+    - Comunicação: Escuta o que é essencial.
+    - Resultado: Equipe unificada que chegará ao próximo de contribuição.
+
+### Dicas para maior produtividade!
+- Especifique suas metas;
+- Coloque prazos para que se policie;
+- Use quadros ou apps com as metas e tente deixá-las vivíseis.
+- Compromisso com você e com pessoas relevantes.
+- Mensure seus resultados pensando o tempo livre que tem hoje e o trabalho entregue.
+- Foque em uma atividade por vez, para que seja mais assertivo.
