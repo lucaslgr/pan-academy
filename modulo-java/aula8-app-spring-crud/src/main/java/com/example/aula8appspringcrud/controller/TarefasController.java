@@ -52,4 +52,19 @@ public class TarefasController {
 	public ResponseEntity<List<TarefasModel>> getByTarefa(@PathVariable String tarefa) {
 		return ResponseEntity.ok(tarefasRepository.findAllByTarefaContainingIgnoreCase(tarefa));
 	}
+
+	@GetMapping("/listar/by_tarefa_and_id/{tarefa}/{id}")
+	public ResponseEntity<List<TarefasModel>> getByTarefaAndId(@PathVariable String tarefa, @PathVariable Long id){
+		return ResponseEntity.ok(tarefasRepository.findByTarefaAndId(tarefa, id));
+	}
+
+	@GetMapping("/listar/by_tarefa_or_id/{tarefa}/{id}")
+	public ResponseEntity<List<TarefasModel>> getByTarefaOrId(@PathVariable String tarefa, @PathVariable Long id){
+		return ResponseEntity.ok(tarefasRepository.findByTarefaOrId(tarefa, id));
+	}
+
+	@GetMapping("/listar/by_tarefa_or_id_using_query_param")
+	public ResponseEntity<List<TarefasModel>> getByTarefaOrIdUsingQueryParam(@RequestParam String tarefa, @RequestParam Long id){
+		return ResponseEntity.ok(tarefasRepository.findByTarefaOrId(tarefa, id));
+	}
 }

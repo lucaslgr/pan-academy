@@ -10,19 +10,24 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping(value = "/api")
+@RequestMapping(value = "/api/clientes")
 public class ClienteController {
 
     @Autowired
     private ClienteRepository clienteRepository;
 
-    @GetMapping("/listar/clientes")
+    @GetMapping("/listar")
     public List<ClienteModel> findAll() {
         return clienteRepository.findAll();
     }
 
-    @PostMapping("/clientes/salvar")
+    @PostMapping("/salvar")
     ResponseEntity<ClienteModel> save(@RequestBody ClienteModel clientinho) {
         return ResponseEntity.status(HttpStatus.CREATED).body(clienteRepository.save(clientinho));
+    }
+
+    @GetMapping("/listar/{tipo}")
+    public ResponseEntity<List<ClienteModel>> filtroPorId(@PathVariable Integer tipo) {
+        return ResponseEntity.ok(clienteRepository.procuraTipoPessoas(tipo));
     }
 }
