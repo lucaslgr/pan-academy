@@ -11,3 +11,4 @@
   - <a href="https://www.javatpoint.com/java-util-calendar">Site de documentação da classe Calendar</a>
 - <a href="./aula6-metodos-estaticos/">Aula 6 Java Métodos Estáticos</a>
 - <a href="./aula7-app-java-console-str-regex/">Aula 7 um pouco de String e Regex</a>
+- <a href="./aula9-app-java-operadores/">Aula 8 Java Operadores</a>
