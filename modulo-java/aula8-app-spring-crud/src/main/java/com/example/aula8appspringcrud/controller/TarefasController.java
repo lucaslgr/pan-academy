@@ -67,4 +67,11 @@ public class TarefasController {
 	public ResponseEntity<List<TarefasModel>> getByTarefaOrIdUsingQueryParam(@RequestParam String tarefa, @RequestParam Long id){
 		return ResponseEntity.ok(tarefasRepository.findByTarefaOrId(tarefa, id));
 	}
+
+	@PutMapping("/atualizar/{id}")
+	public TarefasModel atualizar(@PathVariable Long id, @RequestBody TarefasModel model) {
+		model.setId(id);
+		tarefasRepository.save(model);
+		return model;
+	}
 }
