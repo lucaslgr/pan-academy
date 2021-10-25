@@ -11,4 +11,17 @@
   - <a href="https://www.javatpoint.com/java-util-calendar">Site de documentação da classe Calendar</a>
 - <a href="./aula6-metodos-estaticos/">Aula 6 Java Métodos Estáticos</a>
 - <a href="./aula7-app-java-console-str-regex/">Aula 7 um pouco de String e Regex</a>
-- <a href="./aula9-app-java-operadores/">Aula 8 Java Operadores</a>
+- <a href="./aula8-app-spring-crud/">Aula 8 App Spring CRUD</a>
+- <a href="./aula9-app-java-operadores/">Aula 9 Java Operadores</a>
+- <a href="./aula10-app-list/">Aula 10 Java List</a>
+- Aula 11
+  - <a href="./aula11-app-java-filas-pilhas-sets/">Aula 11 Java Filas Pilhas Sets</a>
+  - <a href="./aula11-app-java-maven-junit-tests/">Aula 11 Java começando com JUnit e testes</a> 
+- <a href="./aula12-app-java-lacos-regex/">Aula 12 Java laços e Regex</a>
+- Aula 13
+  - <a href="./aula13-app-exercicio-heranca/">Exercicio aplicando herança POO</a>
+  - <a href="./aula13-app-java-input-output/">App usando entrada e saída de dados</a>
+  - <a href="./aula13-app-spring-join/">App Spring utilizando JOIN (Relacionamento entre tabelas)</a>
+  - Exemplo de projeto com interação entre dois microserviços:
+    - <a href="./aula13-app-spring-microtabela/">App1 Spring Microserviços</a>
+    - <a href="./aula13-app-spring-microcalculadora/">App2 Spring Microserviços</a>
