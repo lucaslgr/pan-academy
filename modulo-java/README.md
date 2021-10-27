@@ -32,3 +32,4 @@
   - Microserviços (Duas aplicações comunicando entre si)
     - <a href="./aula14-app1-spring-microservicos-openfeign/">App1 usando banco H2 e JPA</a>
     - <a href="./aula14-app2-spring-microservicos-openfeign/">App2 usando RestTemplate e OpenFeign para consumir dados da aplicação 1</a>
+- <a href="./aula15-microservicos/">Aula 15 - Microserviços utilizanndo OpenFeign, Spring Cloud NetFlix Ribbon para Load Balance</a>
