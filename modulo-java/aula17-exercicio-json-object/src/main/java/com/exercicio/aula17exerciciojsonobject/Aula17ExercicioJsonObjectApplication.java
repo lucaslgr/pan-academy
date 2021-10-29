@@ -11,6 +11,10 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
+import java.util.Set;
 
 @SpringBootApplication
 public class Aula17ExercicioJsonObjectApplication {
@@ -33,7 +37,19 @@ public class Aula17ExercicioJsonObjectApplication {
 
     private static void leMultiplosObjetosDoJSON(String caminhoArquivo) throws IOException, ParseException {
         JSONArray jsonArray = (JSONArray)  new JSONParser().parse(new FileReader(caminhoArquivo));
-        jsonArray.forEach(cadaObjetoJSON -> System.out.println(cadaObjetoJSON.toString()));
+
+        Iterator<JSONObject> iteratorObjetoJSON = jsonArray.iterator();
+
+        while(iteratorObjetoJSON.hasNext()) {
+            JSONObject objetoJSONAtual = (JSONObject) iteratorObjetoJSON.next();
+
+            Set<Map.Entry<String, String>> atributos = objetoJSONAtual.entrySet();
+            for(Map.Entry<String, String> atributo : atributos) {
+                System.out.println("Chave: " + atributo.getKey() + " | Valor: " + atributo.getValue());
+            }
+
+            System.out.println("-".repeat(50));
+        }
     }
 
     private static void escreveMultiplosObjetosJSON(String caminhoArquivo) throws FileNotFoundException {
