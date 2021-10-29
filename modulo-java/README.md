@@ -33,3 +33,12 @@
     - <a href="./aula14-app1-spring-microservicos-openfeign/">App1 usando banco H2 e JPA</a>
     - <a href="./aula14-app2-spring-microservicos-openfeign/">App2 usando RestTemplate e OpenFeign para consumir dados da aplicação 1</a>
 - <a href="./aula15-microservicos/">Aula 15 - Microserviços utilizanndo OpenFeign, Spring Cloud NetFlix Ribbon para Load Balance</a>
+- <a href="./aula16-app-java-debug-scanner/">Aula 16 - Java Debug e Scanner</a>
+- <a href="./aula16-app-java-z-constructors/">Aula 16 - Java Constructor</a>
+- <a href="./aula16-microservicos/">Aula 16 - Microserviços com Eureka Server, Eureka Client, Feign</a>
+- <a href="./aula17-app-spring-manipulando-json/">Aula 17 - Bibliotecas Java que converte dados para JSON e de JSON para array em Java</a>
+  - <a href="https://www.geeksforgeeks.org/parse-json-java/">Referência para consulta</a>
+- <a href="./aula17-microservices-eureka/">Aula 17 - Microserviços Eureka (Server, Client e Discorevery) e Feign</a>
+
+
+
