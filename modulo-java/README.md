@@ -37,6 +37,7 @@
 - <a href="./aula16-app-java-z-constructors/">Aula 16 - Java Constructor</a>
 - <a href="./aula16-microservicos/">Aula 16 - Microserviços com Eureka Server, Eureka Client, Feign</a>
 - <a href="./aula17-app-spring-manipulando-json/">Aula 17 - Bibliotecas Java que converte dados para JSON e de JSON para array em Java</a>
+- <a href="./aula17-exercicio-json-object/">Aula 17 - Exercício escrevendo e lendo iterando sobre objetos JSON</a>
   - <a href="https://www.geeksforgeeks.org/parse-json-java/">Referência para consulta</a>
 - <a href="./aula17-microservices-eureka/">Aula 17 - Microserviços Eureka (Server, Client e Discorevery) e Feign</a>
 
