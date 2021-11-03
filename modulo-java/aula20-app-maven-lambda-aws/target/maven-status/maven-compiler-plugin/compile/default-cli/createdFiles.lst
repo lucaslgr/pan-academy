@@ -1,0 +1,5 @@
+com/aws/lambda/mysql/data/Conexao.class
+com/aws/lambda/mysql/data/ResponseDetails.class
+com/aws/lambda/mysql/MysqlConect.class
+com/aws/lambda/mysql/data/RequestDetails.class
+app/LambdaRdsMySqlHandler.class

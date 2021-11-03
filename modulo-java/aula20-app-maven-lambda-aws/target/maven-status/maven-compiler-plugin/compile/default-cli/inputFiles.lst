@@ -1,0 +1,5 @@
+/home/lucaslgr/projects/pan-academy/modulo-java/aula20-app-maven-lambda-aws/src/main/java/com/aws/lambda/mysql/data/ResponseDetails.java
+/home/lucaslgr/projects/pan-academy/modulo-java/aula20-app-maven-lambda-aws/src/main/java/com/aws/lambda/mysql/MysqlConect.java
+/home/lucaslgr/projects/pan-academy/modulo-java/aula20-app-maven-lambda-aws/src/main/java/com/aws/lambda/mysql/data/RequestDetails.java
+/home/lucaslgr/projects/pan-academy/modulo-java/aula20-app-maven-lambda-aws/src/main/java/app/LambdaRdsMysqlHandler.java
+/home/lucaslgr/projects/pan-academy/modulo-java/aula20-app-maven-lambda-aws/src/main/java/com/aws/lambda/mysql/data/Conexao.java

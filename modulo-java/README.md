@@ -40,6 +40,19 @@
 - <a href="./aula17-exercicio-json-object/">Aula 17 - Exercício escrevendo e lendo iterando sobre objetos JSON</a>
   - <a href="https://www.geeksforgeeks.org/parse-json-java/">Referência para consulta</a>
 - <a href="./aula17-microservices-eureka/">Aula 17 - Microserviços Eureka (Server, Client e Discorevery) e Feign</a>
-
+- Aula 18 - App Java POO
+  - <a href="./aula18-app-java-poo/">App Java POO 1</a>
+  - <a href="./aula18-app-java-poo2/">App Java POO 2</a>
+- <a href="./aula18-app-java-sobrecarga-metodos">Aula 18 - App Java sobrecarga de métodos</a>
+- <a href="./aula18-desafio-app-java-json-lib-gson">Aula 18 - App Java manipulando JSON com lib GSON</a>
+- <a href="./aula18-spring-feign">Aula 18 - App Java Spring Feign</a>
+- <a href="./aula18-spring-feign-client">Aula 18 - App Java Spring Feign Client</a>
+- <a href="./aula19-spring-junit">Aula 19 - App Java Spring JUnit</a>
+- <a href="./aula19-desafio-testes">Aula 19 - Desafio de Testes com Spring e JUnit</a>
+- <a href="./aula19-spring-app-crud-aws">Aula 19 - App Spring CRUD AWS</a>
+- <a href="./aula19-spring-test-junit-integracao">Aula 19 - App Spring Test JUnit Integração</a>
+- <a href="./aula20-app-java-spring-mysql">Aula 20 - App Java Spring MySQL</a>
+- <a href="./aula20-app-maven-lambda-aws">Aula 20 - App Maven Lambda AWS</a>
+- <a href="./aula20-spring-test-aws-mysql">Aula 20 - App Spring Test AWS MySql</a>
 
 
