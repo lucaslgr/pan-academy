@@ -54,5 +54,6 @@
 - <a href="./aula20-app-java-spring-mysql">Aula 20 - App Java Spring MySQL</a>
 - <a href="./aula20-app-maven-lambda-aws">Aula 20 - App Maven Lambda AWS</a>
 - <a href="./aula20-spring-test-aws-mysql">Aula 20 - App Spring Test AWS MySql</a>
-
-
+- <a href="./desafio-manipulacao-json-varias-lib">Desafio - Manipulando JSON usando várias libs</a>
+- <a href="./empresa-jpa-spring-main">Projeto - Empresa JPA Spring</a>
+- <a href="./projeto-spring-docker">Projeto - CRUD Pessoa, Spring, JPA, MySQL e Docker</a>
