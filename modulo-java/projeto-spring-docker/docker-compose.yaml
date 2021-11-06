@@ -1,0 +1,26 @@
+version: '3'
+services:
+  api_spring_docker:
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    image: api_spring_docker/api
+    ports:
+      - '8080:8080'
+      - '5005:5005'
+    environment:
+      - ADDITIONAL_OPTS=-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=*:5005 -Xmx1G -Xms128m -XX:MaxMetaspaceSize=128m
+      - PROFILE=dev
+    links:
+      - mysql_db
+  mysql_db:
+    image: mysql:5.6
+    ports:
+      - '3306:3306'
+    environment:
+      - MYSQL_ROOT_HOST=%
+      - MYSQL_DATABASE=db_api_spring_docker
+      - MYSQL_USER=root
+      - MYSQL_ALLOW_EMPTY_PASSWORD=yes
+    volumes:
+      - ./docker/volume_mysql:/var/lib/mysql

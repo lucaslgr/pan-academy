@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="pt" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Spring-Boot Básico</title>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+    <meta name="description" content=""/>
+    <meta name="author" content=""/>
+    <link rel="icon" href="/image/favicon.png"/>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/webjars/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/webjars/open-iconic/font/css/open-iconic-bootstrap.min.css" rel="stylesheet"/>
+
+    <!-- Custom styles for this template -->
+    <link href="/css/style.css" rel="stylesheet"/>
+</head>
+<body>
+
+	<header>
+		<nav class="navbar navbar-inverse navbar navbar-dark bg-dark fixed-top">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<button type="button" class="btn btn-dark navbar-toggle pull-left">
+						<i class="oi oi-menu"></i>
+					</button>				
+					<a class="navbar-brand navbar-toggle pull-left" href="#">Curso Spring Boot</a>
+				</div>
+			</div>
+		</nav>
+	</header>
+	
+	<div class="layout-main">
+	
+	    <aside>
+	        <nav class="sidebar  sidebar-open">
+	            <ul class="nav nav-pills">
+	                <li class="nav-item"><a class="nav-link " href="/"> <i
+	                        class="oi oi-home"></i> <span>Home</span>
+	                </a></li>
+	            </ul>
+	
+	            <ul class="nav nav-pills">
+	                <li class="nav-item"><span class="nav-link active">Departamentos</span></li>
+	                <li class="nav-item"><a class="nav-link"
+	                                        href="/departamentos/cadastrar"> <i class="oi oi-plus"></i>
+	                    <span>Cadastrar</span>
+	                </a></li>
+	                <li class="nav-item"><a class="nav-link"
+	                                        href="/departamentos/listar"> <i class="oi oi-spreadsheet"></i>
+	                    <span>Listar </span>
+	                </a></li>
+	            </ul>
+	
+	            <ul class="nav nav-pills">
+	                <li class="nav-item"><span class="nav-link active">Cargos</span></li>
+	                <li class="nav-item"><a class="nav-link"
+	                                        href="/cargos/cadastrar"> <i class="oi oi-plus"></i> <span>Cadastrar </span>
+	                </a></li>
+	                <li class="nav-item"><a class="nav-link"
+	                                        href="/cargos/listar"> <i
+	                        class="oi oi-spreadsheet"></i> <span>Listar </span>
+	                </a></li>
+	            </ul>
+	
+	            <ul class="nav nav-pills">
+	                <li class="nav-item"><span class="nav-link active">Funcionários</span></li>
+	                <li class="nav-item"><a class="nav-link"
+	                                        href="/funcionarios/cadastrar"> <i class="oi oi-plus"></i>
+	                    <span>Cadastrar </span>
+	                </a></li>
+	                <li class="nav-item"><a class="nav-link"
+	                                        href="/funcionarios/listar"> <i class="oi oi-spreadsheet"></i>
+	                    <span>Listar </span>
+	                </a></li>
+	            </ul>
+	        </nav>
+	    </aside>
+	
+	    <section class="layout-content">
+	
+	        <nav class="navbar navbar-expand-md bg-light">
+	            <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+	                <ul class="navbar-nav mr-auto">
+	                    <li class="nav-item active">
+	                        <i class="oi oi-caret-right"></i>
+	                        <span>Cadastrar Cargos</span>
+	                    </li>
+	                </ul>
+	            </div>
+	            <a class="btn btn-primary btn-md" href="/cargos/listar" role="button">
+	                <span class="oi oi-spreadsheet" title="Cadastro" aria-hidden="true"></span>
+	                <span>Listar Cargos</span>
+	            </a>
+	        </nav>
+	
+	        <div class="container" id="cadastro">
+	            <form action="/cargos/salvar" method="POST">
+	                <div class="form-row">
+	                    <div class="form-group col-md-6">
+	                        <label for="nome">Nome do Cargo</label>
+	                        <input type="text" class="form-control" id="nome" placeholder="Nome Cargo" autofocus="autofocus"
+	                               name="nome" value=""/>
+	                    </div>
+	                    <div class="form-group col-md-4">
+	                        <label for="departamento">Departamento</label>
+	                        <select id="departamento" class="form-control" name="departamento">
+	                            <option value="">Selecione</option>
+	                            <option value="3">Administração</option>
+	                            <option value="2">Contabilidade</option>
+	                            <option value="1">Recursos Humanos</option>
+	                            <option value="4">Tecnologia da Informação</option>
+	                        </select>
+	                    </div>
+	                </div>
+	                <input type="hidden" id="id" name="id" value=""/>
+	                <button type="submit" class="btn btn-primary btn-sm">Salvar</button>
+	            </form>
+	        </div>
+	    </section>
+
+	</div>
+	
+    <footer class="layout-footer">
+        <div class="container">
+            <span class="footer-copy">&copy; 2018 MBallem. Todos os direitos reservados.</span>
+        </div>
+    </footer>
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="/webjars/jquery/jquery.min.js"></script>
+<script src="/webjars/jquery-mask-plugin/dist/jquery.mask.min.js"></script>
+<script
+        src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+<script src="/webjars/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+
+    $(function () {
+        $('[data-toggle="popover"]').popover();
+    });
+    
+	$(document).ready(function(){
+	    $(".navbar-toggle").click(function(){
+	        $(".sidebar").toggleClass("sidebar-open");
+	    })
+	});
+
+</script>
+</body>
+</html>		
