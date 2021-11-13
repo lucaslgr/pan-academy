@@ -57,3 +57,4 @@
 - <a href="./desafio-manipulacao-json-varias-lib">Desafio - Manipulando JSON usando várias libs</a>
 - <a href="./empresa-jpa-spring-main">Projeto - Empresa JPA Spring</a>
 - <a href="./projeto-spring-docker">Projeto - CRUD Pessoa, Spring, JPA, MySQL e Docker</a>
+- <a href="./spring-security-main">Projeto - Projeto Spring Security</a>
