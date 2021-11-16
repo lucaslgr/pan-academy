@@ -4,9 +4,13 @@
 ## MySQL (e Linguagem SQL)
 ### É um banco e dados relacional.
 - Tipos de dados:
+
     <img src="./img/tipos-dados1.png" />
+
     <img src="./img/tipos-dados2.png" />
+    
     <img src="./img/tipos-dados3.png" />
+    
 - Normalização dos dados:
     - É um conjunto de regras que visa principalmente, a organização de um projeto de banco de dados para reduzir a redundância de dados, aumentar a integridade de dados e o desempenho.
     Para normalizar o banco de dados, deve-se examinar as colunas(atributos) de uma entidade e as relações entre entidades(tabelas), com o objetivo de se evitar anomalias observadas na inclusão, exclusão e alteração de registros.
