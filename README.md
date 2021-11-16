@@ -41,3 +41,4 @@ Acesse aqui para mais informações
 - <a href="./modulo-java/">Módulo - Java</a>
 - <a href="./modulo-desenvolvimento-pessoal/">Módulo - Desenvolvimento Pessoal</a>
 - <a href="./modulo-banco-de-dados-sql/">Módulo - Banco de Dados SQL</a>
+- <a href="./modulo-banco-de-dados-nosql/">Módulo - Banco de Dados NOsql</a>
