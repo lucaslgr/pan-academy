@@ -40,3 +40,4 @@ Acesse aqui para mais informações
     - <a href="./modulo-metodologias-ageis/safe.md">SAFe</a>
 - <a href="./modulo-java/">Módulo - Java</a>
 - <a href="./modulo-desenvolvimento-pessoal/">Módulo - Desenvolvimento Pessoal</a>
+- <a href="./modulo-banco-de-dados/">Módulo - Banco de Dados</a>
