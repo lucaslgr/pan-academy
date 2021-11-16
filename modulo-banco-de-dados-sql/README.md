@@ -1,4 +1,4 @@
-# Módulo - Banco de Dados
+# Módulo - Banco de Dados SQL
 
 
 ## MySQL (e Linguagem SQL)
