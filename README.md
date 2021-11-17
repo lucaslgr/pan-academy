@@ -43,3 +43,4 @@ Acesse aqui para mais informações
 - <a href="./modulo-banco-de-dados-sql/">Módulo - Banco de Dados SQL</a>
 - <a href="./modulo-banco-de-dados-nosql/">Módulo - Banco de Dados NOsql</a>
 - <a href="./modulo-devops/">Módulo - DevOps</a>
+- <a href="./modulo-jenkins-docker/">Módulo - Jenkins e Docker</a>
